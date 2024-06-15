@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @henrik23mr
 - 👀 I’m interested in Data Science, Machine Learning and Software Development.
-- 🌱 I’m currently learning Computer Science BSc, starting Data Science MSc in 2024 fall
-
+- 🌱 I graduated Computer Science Bsc
+- 🌱 I will start learning Data Science MSc in 2024 fall
 - ⚡ Fun fact: I 'm also interested in economics, finance and value investing
 
 <!---
